@@ -13,4 +13,4 @@ Shadowless is a AR based interactive app that helps you understand how the shado
 
 * **Step 2** "After locating this position, we place an experimental platform to cast a shadow, and moreover, we can add some more vivid skins to it.
 
-![](Assets/step3.jpg)
+![](Assets/step2-3.jpg)
