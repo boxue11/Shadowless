@@ -1,6 +1,6 @@
 
-<p style="display:flex; justify-content:center;">
-<img src="Assets/Shadowless.png" />
+<p align="center">
+<img width="64px"src="Assets/Shadowless.png" />
 </p>
 
 # Welcome to Shadowless
