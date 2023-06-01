@@ -1,7 +1,9 @@
 
 <p>
-<img src="Assets/shadowless.jpg" />
+<img src="Assets/Shadowless.jpg" />
 </p>
+
+# Welcome to Shadowless
 
 Shadowless is a AR based interactive app that helps you understand how the shadow is diminished by several light sources from different directions.
 
