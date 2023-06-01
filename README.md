@@ -1,5 +1,5 @@
 
-<p>
+<p style="display:flex; justify-content:center;">
 <img src="Assets/Shadowless.jpg" />
 </p>
 
