@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "cy_metal_pattern.jpeg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
